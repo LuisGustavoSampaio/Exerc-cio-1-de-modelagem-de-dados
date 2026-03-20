@@ -4,6 +4,11 @@ Trabalho da faculdade desenvolvido com o padrão arquitetural **MVC (Model-View-
 
 ---
 
+## Como rodar
+da run do app.py e abre o index.html que ele vai abrir a pagina
+
+
+
 ## 📌 Descrição
 
 Este projeto consiste em um sistema simples de gerenciamento bancário que permite:
@@ -23,7 +28,6 @@ A aplicação foi desenvolvida seguindo o padrão **MVC**, separando:
 ## 🛠️ Tecnologias utilizadas
 
 * Python 3
-* Flask
 * HTML
 
 ---
@@ -33,13 +37,6 @@ A aplicação foi desenvolvida seguindo o padrão **MVC**, separando:
 Antes de rodar o projeto, você precisa ter instalado:
 
 * Python 3.x
-* Flask
-
-Para instalar o Flask, execute:
-
-```bash
-pip install flask
-```
 
 ---
 
@@ -55,11 +52,6 @@ pip install flask
 python app.py
 ```
 
-4. Abra o navegador e acesse:
-
-```
-http://127.0.0.1:5000
-```
 
 ---
 
