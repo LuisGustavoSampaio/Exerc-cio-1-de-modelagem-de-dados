@@ -5,7 +5,7 @@ Trabalho da faculdade desenvolvido com o padrão arquitetural **MVC (Model-View-
 ---
 
 ## Como rodar
-da run do app.py e abre o index.html que ele vai abrir a pagina
+Da run do app.py e abre o index.html que ele vai abrir a pagina
 
 
 
